@@ -13,7 +13,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennoazevedosilveira)](https://github.com/anuraghazra/github-readme-stats)
-
 Apaixonado por programação, espero um dia aprender.
 
